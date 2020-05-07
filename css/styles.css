@@ -36,8 +36,18 @@ hr{
   .links{
     color: #40514e;
     font: italic small-caps bold 16px/2 cursive;
+    text-decoration: none;
   }/*              Done by Class Selection             */
   #myname{
     font: italic 2.2em "Fira Sans", serif;
     color: #66bfbf;
-  /*              Done by Id Selection             */
+  }
+  /*              Done by Id Selection  USE SPARRINGLY           */
+
+  .mysite{
+    text-decoration: none;
+  }
+
+  .hobbies{
+      text-decoration: none;
+  }
