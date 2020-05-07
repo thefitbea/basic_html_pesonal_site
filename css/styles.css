@@ -47,7 +47,9 @@ hr{
   .mysite{
     text-decoration: none;
   }
-
+  .mysite:hover {
+    background-color: gold;
+  }/*              Done by Seudo Class Selection             */
   .hobbies{
       text-decoration: none;
   }
