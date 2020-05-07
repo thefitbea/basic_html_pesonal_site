@@ -10,19 +10,13 @@ a{
 }
 
 */
-.links{
-  color: #40514e;
-  font: italic small-caps bold 16px/2 cursive;
+body{
+background-color: #eaf6f6;
 }
 .circular{
   border-radius: 200px;
 }
 /*              Done by Class Selection             */
-
-
-body{
-background-color: #eaf6f6;
-}
 hr{
   border-style: none;
   border-top-style: dotted;
@@ -31,7 +25,6 @@ hr{
   width: 5%;
 }
   h1{
-    font: italic 2.2em "Fira Sans", serif;
     color: #66bfbf;
   }
   h3{
@@ -40,3 +33,11 @@ hr{
   h2{
     color: #66bfbf;
   }
+  .links{
+    color: #40514e;
+    font: italic small-caps bold 16px/2 cursive;
+  }/*              Done by Class Selection             */
+  #myname{
+    font: italic 2.2em "Fira Sans", serif;
+    color: #66bfbf;
+  /*              Done by Id Selection             */
