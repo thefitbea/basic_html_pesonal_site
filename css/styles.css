@@ -1,3 +1,15 @@
+/*a{
+  color: #40514e;
+  font: italic small-caps bold 16px/2 cursive;
+} Done By Tag selection
+
+ALSO ALL SELECTION LISTED IN ALPHABETICAL ORDER FOR FUTURE REFERNCES AND BUG HUNTING
+
+*/
+.links{
+  color: #40514e;
+  font: italic small-caps bold 16px/2 cursive;
+}/*Done by Class Selection*/
 body{
 background-color: #eaf6f6;
 }
@@ -8,20 +20,13 @@ hr{
   border-width: 5px;
   width: 5%;
 }
-
   h1{
     font: italic 2.2em "Fira Sans", serif;
     color: #66bfbf;
   }
-
   h3{
     color: #66bfbf;
   }
-
   h2{
     color: #66bfbf;
-  }
-a{
-    font: italic small-caps bold 16px/2 cursive;
-      color: #40514e;
   }
