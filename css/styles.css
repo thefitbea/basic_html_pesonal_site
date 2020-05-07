@@ -1,15 +1,25 @@
-/*a{
+/*               ALSO ALL SELECTION LISTED IN ALPHABETICAL ORDER FOR FUTURE REFERNCES AND BUG HUNTING
+
+
+
+Done By Tag selection
+
+a{
   color: #40514e;
   font: italic small-caps bold 16px/2 cursive;
-} Done By Tag selection
-
-ALSO ALL SELECTION LISTED IN ALPHABETICAL ORDER FOR FUTURE REFERNCES AND BUG HUNTING
+}
 
 */
 .links{
   color: #40514e;
   font: italic small-caps bold 16px/2 cursive;
-}/*Done by Class Selection*/
+}
+.circular{
+  border-radius: 200px;
+}
+/*              Done by Class Selection             */
+
+
 body{
 background-color: #eaf6f6;
 }
