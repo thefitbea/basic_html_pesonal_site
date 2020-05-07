@@ -22,3 +22,7 @@ hr{
   h2{
     color: #66bfbf;
   }
+a{
+    font: italic small-caps bold 16px/2 cursive;
+      color: #40514e;
+  }
